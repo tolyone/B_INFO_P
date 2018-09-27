@@ -8,5 +8,7 @@
 
 [Лекция 3. Составные инструкции: условия](https://github.com/dep24/B_INFO_P/blob/master/pdf_res/%D0%A1%D0%BE%D1%81%D1%82%D0%B0%D0%B2%D0%BD%D1%8B%D0%B5%20%D0%B8%D0%BD%D1%81%D1%82%D1%80%D1%83%D0%BA%D1%86%D0%B8%D0%B8%20if.pdf)
 
+## Практические работы
 
+[Расчетно-графическая работа №1](https://github.com/dep24/B_DGW_1_Py/tree/master)
 
