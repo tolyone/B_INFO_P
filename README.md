@@ -10,6 +10,7 @@
 
 [Лекция 4. Строки](https://github.com/dep24/B_INFO_P/blob/master/pdf_res/%D0%A1%D1%82%D1%80%D0%BE%D0%BA%D0%B8.pdf)
 
+[Лекция 5. Контейнеры](https://github.com/dep24/B_INFO_P/blob/master/pdf_res/%D0%9A%D0%BE%D0%BD%D1%82%D0%B5%D0%B9%D0%BD%D0%B5%D1%80%D1%8B.pdf)
 ## Практические работы
 
 [Расчетно-графическая работа №1](https://github.com/dep24/B_DGW_1_Py/tree/master)
