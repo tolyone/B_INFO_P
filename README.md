@@ -19,3 +19,5 @@
 
 [Домашнее задание №1](https://github.com/dep24/B_INFO_P/blob/master/hw/hw1.md)
 
+[Домашнее задание №2](https://github.com/dep24/B_INFO_P/blob/master/hw/hw2.md)
+
