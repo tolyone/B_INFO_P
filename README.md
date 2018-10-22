@@ -15,6 +15,8 @@
 
 [Расчетно-графическая работа №1](https://github.com/dep24/B_DGW_1_Py/tree/master)
 
+[Расчетно-графическая работа №2](https://github.com/dep24/B_INFO_P/blob/master/dgw/dgw2.md)
+
 ## Домашние задания
 
 [Домашнее задание №1](https://github.com/dep24/B_INFO_P/blob/master/hw/hw1.md)
