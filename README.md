@@ -16,6 +16,10 @@
 
 [Лекция 7. Работа с файлами](https://github.com/dep24/B_INFO_P/blob/master/pdf_res/%D0%A0%D0%B0%D0%B1%D0%BE%D1%82%D0%B0%20%D1%81%20%D1%84%D0%B0%D0%B9%D0%BB%D0%B0%D0%BC%D0%B8.pdf)
 
+Лекция 8. Импортирование
+
+[Лекция 9. Numpy](https://github.com/dep24/B_INFO_P/blob/master/pdf_res/NumPy.pdf)
+
 ## Практические работы
 
 [Расчетно-графическая работа №1](https://github.com/dep24/B_DGW_1_Py/tree/master)
