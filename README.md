@@ -28,6 +28,8 @@
 
 [Расчетно-графическая работа №3](https://github.com/dep24/B_INFO_P/blob/master/dgw/dgw3.md)
 
+[Расчетно-графическая работа №4](https://github.com/dep24/B_INFO_P/blob/master/dgw/res.txt)
+
 ## Домашние задания
 
 [Домашнее задание №1](https://github.com/dep24/B_INFO_P/blob/master/hw/hw1.md)
